@@ -1,1 +1,3 @@
 # odin-recipes
+In this project we are essentially doing a look how far we've come segment. And oh how far indeed we have come. Right now im sitting on this couch, jazz playing on my PC coding away the day. It seems a new love for the terminal has arisen in me. How lost I was, truly naive fearing such beauty. I was beguiled by the GUi, but no more. Tis now the terminal and I. This is just the precursor to me learning Ruby, then Ruby on Rails. I am going to fight my fight, knowing that I am blessed and highly favoured. I know that whatever I lay my hands to it shall prosper!!
+Glory be to GOD!!!

@@ -1,0 +1,27 @@
+* {
+    background-color: #f0f8ff;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+p {
+    margin: 30px;
+}
+
+#egg, #bacon, #oat {
+    margin-right: 250px;
+    outline: 8px groove gold;
+}
+
+#bacon {
+    outline: 8px groove brown;
+}
+
+#oat {
+    outline: 8px groove grey;
+    
+}
